@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.capas.microservicios.commons.alumnos</groupId>
-	<artifactId>commos-alumnos</artifactId>
+	<artifactId>commons-alumnos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>commos-alumnos</name>
+	<name>commons-alumnos</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
